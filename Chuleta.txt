@@ -20,6 +20,6 @@ Para el Incremento del Termino Fijo(IPRI):
 		sustituyendo [*m] por el mes que se desee y [*y] por el año que se desee.
 		Ejemplo:http://www.ine.es/daco/daco42/daco423/ipri0112.pdf corresponde a Enero del año 2012.
 		[!!]Si queremos conocer los datos anuales ingresaremos siempre el mes de Diciembre (12).
-	2.- Encontraremos los datos en la pagina cuatro, filas "Fabricación de maquinaria y equipo n.c.o.p" y "Fabricación de otro material de transporte",
+	2.- Encontraremos los datos en la pagina cuatro, filas "Fabricación de maquinaria y equipo n.c.o.p" (Division 28) y "Fabricación de otro material de transporte" (Division 30),
 		columna "Indice" (primera columna numerica)
 		En el ejemplo anterior: 113.5 y 105.2.
