@@ -1,10 +1,3 @@
-Para el Incremento de la Mano de Obra (ETCL):
-	1.- Ir a: http://www.ine.es/daco/daco42/etcl/etcl[*q][*y].pdf
-		sustituyendo [*q] por el trimestre que se desee y [*y] por el año que se desee.
-		Ejemplo: http://www.ine.es/daco/daco42/etcl/itcl0411.pdf corresponde al cuarto cuatrimestre del año 2011.
-	2.- Encontraremos los datos en la pagina 5 del pdf, en la tabla 1 de resultados nacionales, columna del coste laboral por hora efectiva en euros (cuarta columna numerica),
-		fila Industria (segunda fila). En el ejemplo anterior: 22.46.
-
 Para el Incremento de Materia Prima (IPC):
 	1.- Ir a: http://www.ine.es/daco/daco42/daco421/ipc12[*y].pdf
 		sustituyendo [*m] por el mes que se desee [*y] por el año que se desee.
@@ -13,11 +6,20 @@ Para el Incremento de Materia Prima (IPC):
 	2.- Encontraremos los datos en la primera pagina, en la tabla Indice General, en la columna Variacion Interanual (tercera columna numerica).
 		En el ejemplo anterior: 3,0.
 
+
+Para el Incremento de la Mano de Obra (ETCL):
+	1.- Ir a: http://www.ine.es/daco/daco42/etcl/etcl[*q][*y].pdf
+		sustituyendo [*q] por el trimestre que se desee y [*y] por el año que se desee.
+		Ejemplo: http://www.ine.es/daco/daco42/etcl/etcl0411.pdf corresponde al cuarto cuatrimestre del año 2011.
+	2.- Encontraremos los datos en la pagina 5 del pdf, en la tabla 1 de resultados nacionales, columna del coste laboral por hora efectiva en euros (cuarta columna numerica),
+		fila Industria (segunda fila). En el ejemplo anterior: 22.46.
+
+
 Para el Incremento del Termino Fijo(IPRI):
 	1.- Ir a: http://www.ine.es/daco/daco42/daco423/ipri[*m][*y].pdf
 		sustituyendo [*m] por el mes que se desee y [*y] por el año que se desee.
 		Ejemplo:http://www.ine.es/daco/daco42/daco423/ipri0112.pdf corresponde a Enero del año 2012.
 		[!!]Si queremos conocer los datos anuales ingresaremos siempre el mes de Diciembre (12).
 	2.- Encontraremos los datos en la pagina cuatro, filas "Fabricación de maquinaria y equipo n.c.o.p" y "Fabricación de otro material de transporte",
-		columna "Indice" (tercera columna numerica)
+		columna "Indice" (primera columna numerica)
 		En el ejemplo anterior: 113.5 y 105.2.
