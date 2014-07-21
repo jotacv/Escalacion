@@ -1,23 +1,23 @@
 #!/usr/bin/python
 #coding=UTF-8
 def main():
-	print 'IPC este año'
+	print 'IPC este aï¿½o'
 	ipc1=float(float(raw_input()))
 	ipc=1+(float(ipc1/100))
 	
-	print 'ETCL este año'
+	print 'ETCL este aï¿½o'
 	etc1=float(raw_input())
-	print 'ETCL año anterior'
+	print 'ETCL aï¿½o anterior'
 	etc2=float(raw_input())
 	etcl=float(etc1)/float(etc2)
 		
-	print 'Division 28 este año'
+	print 'Division 28 este aï¿½o'
 	mo281=float(raw_input())
-	print 'Division 28 anño anterior'
+	print 'Division 28 anï¿½o anterior'
 	mo282=float(raw_input())
-	print 'Division 30 este año'
+	print 'Division 30 este aï¿½o'
 	mo301=float(raw_input())
-	print 'Division 30 año anterior'
+	print 'Division 30 aï¿½o anterior'
 	mo302=float(raw_input())
 	ipri=0.5*(float(mo281)/float(mo282))+0.5*((float(mo301)/float(mo302)))
 	
