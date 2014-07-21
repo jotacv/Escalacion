@@ -25,10 +25,10 @@ def main():
 			for key2 in dic[key]:
 				outp.write("\t"+key2+"\t"+str(dic[key][key2])+"\n")
 	else:
-		print "python multiprecios.py [fichero_entrada] [fichero_salida]"
-		print "[fichero_entrada] debe ser un fichero que exista consistente en un listado de dos columnas separadas por un tabulador. NO DEBE ACABAR EN UN SALTO DE LINEA"
-		print "Ejemplo: J57151717-904	1730.1421818097"
-		print "Los datos quedan agrupados segun el part-number en la columna izquierda y bajo el en la columna derecha los precios asociados con ese part number y su cantidad"
-
+		print "\n---------------------------------------------------------------------------------"
+		print "Usage: python multiprecios.py [fichero_entrada] [fichero_salida]\n"
+		print "[fichero_entrada] debe ser un fichero que exista consistente en un listado de dos columnas separadas por un tabulador. NO DEBE ACABAR EN UN SALTO DE LINEA. Ver ejemplo_fichero_entrada.txt"
+		print "Los datos quedan agrupados segun el part-number en la columna izquierda y bajo el en la columna derecha los precios asociados con ese part number y su cantidad. Ver ejemplo_fichero_salida.txt"
+		print "---------------------------------------------------------------------------------\n"
 if __name__ == "__main__":
 	main()
