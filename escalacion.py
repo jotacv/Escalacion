@@ -1,9 +1,11 @@
 #!/usr/bin/python
 #coding=UTF-8
 def main():
-	print 'IPC este a�o'
+	print 'IPC este año'
 	ipc1=float(float(raw_input()))
-	ipc=1+(float(ipc1/100))
+	print 'IPC año anterior'
+	ipc2=float(float(raw_input()))
+	ipc=float(ipc1)/float(ipc2)
 	
 	print 'ETCL este a�o'
 	etc1=float(raw_input())
